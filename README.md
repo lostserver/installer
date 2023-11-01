@@ -1,5 +1,7 @@
-# Free Auto Script Installer
+# Free Auto Script Installer SSH, VMESS, VLESS, TROJAN, SS
+Support SlowDNS & UDP Custom
 
+# How to Use
 # STEP 1
 apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot
 
